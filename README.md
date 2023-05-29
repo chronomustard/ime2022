@@ -36,7 +36,7 @@ To use or contribute to this project, follow these steps:
 
 ## Demo
 
-Check out the live demo of the IME FTUI 2022 Webpage [here](https://github.com/chronomustard/ime2022/deployments/activity_log?environment=github-pages).
+Check out the live demo of the IME FTUI 2022 Webpage [here](https://chronomustard.github.io/ime2022/).
 
 ## Contributing
 
